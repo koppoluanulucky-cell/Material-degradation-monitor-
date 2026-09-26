@@ -1,0 +1,6 @@
+{
+  "name": "AI Material Rust & Degradation Monitor",
+  "description": "Smart monitoring and estimation of material degradation and corrosion for engineering materials using rule-based AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
